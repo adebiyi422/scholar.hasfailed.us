@@ -96,10 +96,10 @@ Feel free to list an affiliation with an institution, organization, or company, 
 [pull-request]: https://github.com/rspeer/scholar.hasfailed.us/edit/main/index.md
 
 ## Signers
-
 - **Pranav A** (Queer in AI)
 - **Mason Acevedo** (Harvey Mudd College)
 - **Thomas M. Adams** (John Innes Centre, UK)
+- **Aminat Adebiyi** (University of Southern California)
 - **Emily A. Aery Jones** (Stanford University)
 - **William Agnew** (University of Washington, Queer in AI)
 - **Sam Ahmed** (Leiden University)
